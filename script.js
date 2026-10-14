@@ -32,7 +32,7 @@ switch (tanggal){
 }
 
 //Looping
-for (let angka = 5; angka >= 1; angka++) {
+for (let angka = 5; angka >= 1; angka--) {
     console.log('Angka ke:' + angka);
     
 }
